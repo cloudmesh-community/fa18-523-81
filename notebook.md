@@ -2,7 +2,7 @@
 
 ### Week Fri 10/05/18 - 10/11/18
  
-  * Updated Readme.yml file with links to technology suummaries.
+  * Updated Readme.yml file with links to technology summaries.
   
 ### Week Fri 09/28/18 - 10/04/18
 
@@ -24,6 +24,7 @@
 
 ### Week Fri 09/07/18 - 09/13/18
   
+  * Installed Latex
   * Installed Jabref
   * Downloaded epubs
 

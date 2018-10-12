@@ -2,8 +2,16 @@
 
 ### Week Fri 10/05/18 - 10/11/18
  
-  * 
+  * Updated Readme.yml file with links to technology suummaries.
+  
+### Week Fri 09/28/18 - 10/04/18
 
+  * Added SSH key to Future Systems account
+  
+### Week Fri 09/21/18 - 09/27/18
+
+  * Worked on tech summaries
+  
 ### Week Fri 09/14/18 - 09/20/18
 
   * Claimed technologies for technical writing
@@ -13,7 +21,6 @@
      * Apache OODT
      * Apache Beam	
      * Drill
-  
 
 ### Week Fri 09/07/18 - 09/13/18
   

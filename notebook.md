@@ -1,13 +1,19 @@
 # Weekly updates
 
-### Week Fri 09/14/18 - 09/20/18
+### Week Fri 10/05/18 - 10/11/18
  
   * 
 
 ### Week Fri 09/14/18 - 09/20/18
 
-  * harika
-    * putti
+  * Claimed technologies for technical writing
+  * Created pull requests for - 
+     * HCatalog
+     * Yarn
+     * Apache OODT
+     * Apache Beam	
+     * Drill
+  
 
 ### Week Fri 09/07/18 - 09/13/18
   

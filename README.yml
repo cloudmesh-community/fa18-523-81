@@ -4,9 +4,21 @@ owner:
   lastname: "Putti"
   hid: "fa18-523-81"
   community: "i523"
+  
 technologies:
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/hcatalog.md
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/yarn.md
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/apache-oodt.md
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/apache-beam.md
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/drill.md
+ 
+paper:
+  title: IBM Cognos Analytics
+  url: 
+  group: N/A
+
+project:
+  title: Using Watson Analytics 
+  url: 
+  group: fa18-523-81
+  code: 

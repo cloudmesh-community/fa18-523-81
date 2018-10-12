@@ -15,10 +15,10 @@ technologies:
 paper:
   title: IBM Cognos Business Intelligence
   url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/Paper/2-Page-Paper.md
-  group: N/A
+  group: TBD
 
 project:
   title: Watson Analytics 
   url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/Project/Project-Proposal.md
   group: fa18-523-81
-  code: 
+  code: https://github.com/cloudmesh-community/fa18-523-81/tree/master/Project/Project-Code

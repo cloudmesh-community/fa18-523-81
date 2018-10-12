@@ -2,6 +2,8 @@
 
 ### Week Fri 10/05/18 - 10/11/18
  
+  * Worked on project ideas
+  * Worked on 2-page paper 
   * Updated Readme.yml file with links to technology summaries.
   
 ### Week Fri 09/28/18 - 10/04/18

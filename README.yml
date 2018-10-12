@@ -4,21 +4,19 @@ owner:
   lastname: "Putti"
   hid: "fa18-523-81"
   community: "i523"
-  
 technologies:
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/hcatalog.md
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/yarn.md
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/apache-oodt.md
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/apache-beam.md
  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/drill.md
- 
 paper:
   - title: IBM Cognos Business Intelligence
     url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/Paper/2-Page-Paper.md
-    group: N/A
-
+    group: TBD
 project:
   - title: Watson Analytics 
     url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/Project/Project-Proposal.md
     group: fa18-523-81
-    code: TBD 
+    code: https://github.com/cloudmesh-community/fa18-523-81/tree/master/Project/Project-Code
+

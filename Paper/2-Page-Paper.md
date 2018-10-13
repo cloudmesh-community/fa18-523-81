@@ -38,17 +38,16 @@ The various components of Cognos Business intelligence are –
 |IBM Framework Manager | Creating metadata models|
 |IBM Cognos Transformer | Multi-dimensional data modeling|
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 ### IBM Cognos Connection
+*more information here*
 ### IBM Cognos Insight
+*more information here*
 ### IBM Cognos Workspace
+*more information here*
 ### IBM Cognos Workspace Advanced
+*more information here*
 ### IBM Cognos Report Studio
+*more information here*
 ### cont…
 ###
 ###

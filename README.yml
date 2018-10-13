@@ -12,11 +12,11 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/drill.md
 paper:
   - title: "IBM Cognos Business Intelligence"
-    url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/Paper/2-Page-Paper.md
+    url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/paper/paper.md
     group: TBD
 project:
   - title: "Analysis of Global Commodity Statistics using PySpark and Watson Analytics" 
-    url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/Project/Project-Proposal.md
+    url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/project-report/report.md
     group: fa18-523-81
-    code: https://github.com/cloudmesh-community/fa18-523-81/tree/master/Project/Project-Code
+    code: https://github.com/cloudmesh-community/fa18-523-81/tree/master/project-code
 

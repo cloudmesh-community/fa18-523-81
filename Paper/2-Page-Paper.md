@@ -22,7 +22,8 @@ Cognos has a 3-tiered architecture. Each tier separated by network firewalls.
 
 ## COMPONENTS
 The various components of Cognos Business intelligence are – 
-| Component| Application| 
+
+|Component| Application| 
 | ------------- |:-------------:|
 | IBM Cognos Connection | Publishing, managing, and viewing content |
 | IBM Cognos Insight | Managed workspaces |
@@ -36,6 +37,12 @@ The various components of Cognos Business intelligence are –
 | IBM Cognos Analysis Studio |Exploring Data|
 |IBM Framework Manager | Creating metadata models|
 |IBM Cognos Transformer | Multi-dimensional data modeling|
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ### IBM Cognos Connection
 ### IBM Cognos Insight

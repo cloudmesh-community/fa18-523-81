@@ -18,7 +18,7 @@ Cognos has a 3-tiered architecture. Each tier separated by network firewalls.
 
 ### Tier 3: Data and Content store
 
-![alt text](https://github.com/ "Cognos BI Architecture")
+![alt text](https://github.com/fa18-523-81/Paper/crn_arch_struc-1.jpg "Cognos BI Architecture")
 
 ## COMPONENTS
 The various components of Cognos Business intelligence are – 

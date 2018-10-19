@@ -4,6 +4,7 @@ owner:
   lastname: "Putti"
   hid: "fa18-523-81"
   community: "i523"
+  semester: "fa18"
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/hcatalog.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/yarn.md
@@ -14,10 +15,10 @@ paper:
   - title: "IBM Cognos Business Intelligence"
     keyword: IBM Cognos
     url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/paper/paper.md
-    group: TBD
+    group: fa18-523-81
 project:
   - title: "Analysis of Global Commodity Statistics using PySpark and Watson Analytics" 
-    keyword: Watson PySpark
+    keyword: Watson, PySpark
     url: https://github.com/cloudmesh-community/fa18-523-81/blob/master/project-report/report.md
     group: fa18-523-81
     code: https://github.com/cloudmesh-community/fa18-523-81/tree/master/project-code

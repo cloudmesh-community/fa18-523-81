@@ -1,5 +1,10 @@
 # Weekly updates
 
+### Week Fri 10/12/18 - 10/19/18
+  
+  * Got pull-requests fixed
+  * Worked on project
+
 ### Week Fri 10/05/18 - 10/11/18
  
   * Worked on project ideas

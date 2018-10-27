@@ -1,5 +1,5 @@
 
-# Analysis of Global Commodity Statistics using PySpark and Watson Analytics
+# Analysis of Global Commodity Statistics using PySpark and Watson Analytics :hand: fa18-523-79, fa18-523-81, fa18-523-82
 
 
 ## Abstract:

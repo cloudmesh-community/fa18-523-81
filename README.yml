@@ -11,6 +11,7 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/apache-oodt.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/apache-beam.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/drill.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/hyper-v.md
 paper:
   - title: "IBM Cognos Business Intelligence"
     keyword: IBM Cognos

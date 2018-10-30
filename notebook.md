@@ -1,5 +1,10 @@
 # Weekly updates
 
+### Week Fri 10/20/18 - 10/26/18
+  
+  * Worked on Tech summaries
+  * got confused about deadlines for tech summaries
+
 ### Week Fri 10/12/18 - 10/19/18
   
   * Got pull-requests fixed

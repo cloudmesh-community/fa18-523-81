@@ -1,5 +1,10 @@
 # IBM Cognos Business Intelligence :hand: fa18-523-81
 
+:o: format incorrect
+
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-81/edit/master/paper/paper.md)
+
+
 ---
 
 Keywords: Fa18-523-81, business intelligence, BI, cognos, analytics

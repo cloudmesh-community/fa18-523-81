@@ -1,5 +1,9 @@
 
-# Analysis of Global Commodity Statistics using PySpark and Watson Analytics :hand: fa18-523-79, fa18-523-81, fa18-523-82
+# Analysis of Global Commodity Statistics using PySpark and Watson Analytics :hand: fa18-523-81, fa18-523-79, fa18-523-82
+
+:o: format not followed
+
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-81/blob/master/project-report/report.md)
 
 
 ## Abstract
@@ -8,7 +12,7 @@ Economists, governments, trading organizations and even general public may be cu
 
 ## Keywords
 
-fa18-523-79, fa18-523-81, fa18-523-82, Exploratory Data Analysis, Python, PySpark, HDFS, HBase, Watson Analytics
+fa18-523-81, fa18-523-79, fa18-523-82, Exploratory Data Analysis, Python, PySpark, HDFS, HBase, Watson Analytics
 
 
 ## Introduction

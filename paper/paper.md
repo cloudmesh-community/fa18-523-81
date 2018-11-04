@@ -2,7 +2,7 @@
 
 :o: format incorrect
 
-| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-81/edit/master/paper/paper.md)
+github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-81/edit/master/paper/paper.md)
 
 
 ---
@@ -31,7 +31,9 @@ Cognos has a 3-tiered architecture. Each tier separated by network firewalls.
 
 ### Tier 3: Data and Content store
 
-![alt text](https://github.com/cloudmesh-community/fa18-523-81/blob/master/paper/images/crn_arch_struc-1.jpg "Cognos BI Architecture")
+
+![alt text](images/crn_arch_struc-1.jpg "Cognos BI Architecture")
+
 
 ## Components
 

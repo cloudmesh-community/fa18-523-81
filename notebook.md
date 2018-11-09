@@ -1,5 +1,17 @@
 # Weekly updates
 
+### Week Fri 11/02/18 - 11/09/18
+
+  * Recieved feedback for technical summaries 
+  * Made changes accordingly
+  * Started working on Paper on IBM Cognos Analytics
+  
+### Week Fri 10/27/18 - 11/02/18
+
+  * Made final changes to technical summaries
+  * Created pull requests and made changes accordingly
+  * Turned in technical summaries
+  
 ### Week Fri 10/20/18 - 10/26/18
   
   * Worked on Tech summaries

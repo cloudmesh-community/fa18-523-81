@@ -1,4 +1,4 @@
-# IBM Cognos Business Intelligence :hand: fa18-523-81
+# IBM Cognos Business Intelligence :wave: :exclamation: fa18-523-81
 
 :o: format incorrect
 

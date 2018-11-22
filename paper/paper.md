@@ -2,6 +2,10 @@
 
 :o: format incorrect
 
+:o: second review: paper is in same state.
+
+:o: images are not done according to the sample we provided
+
 github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-81/edit/master/paper/paper.md)
 
 

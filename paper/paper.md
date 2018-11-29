@@ -26,11 +26,11 @@ The latest edition of Cognos is the IBM Cognos Analytics 11.0 which is a state-o
 
 Cognos has a 3-tiered architecture. Each tier separated by network firewalls. 
 
-### Tier 1: Web servers and Gateways
+* Tier 1: Web servers and Gateways
 
-### Tier 2: Applications
+* Tier 2: Applications
 
-### Tier 3: Data and Content store
+* Tier 3: Data and Content store
 
 +@fig: CognosBIArchitecture shows the architecture for the Cognos Business intelligence suite. 
 

@@ -1,7 +1,5 @@
 
-# Visualizing Global Commodity Statistics using Azure, PySpark and Python :hand: fa18-523-79, fa18-523-81, fa18-523-82
-
-:o: format not followed
+# Visualizing Global Commodity Statistics using Azure, PySpark and Python :smiley: fa18-523-79, fa18-523-81, fa18-523-82
 
 | Abhishek Rapelli, Harika Putti, Pavan Kumar Madineni
 | arapelli@iu.edu, haputti@iu.edu, pmadinen@iu.edu
@@ -45,7 +43,7 @@ The entire data is stored in Azure cloud and is accessed directly from cloud rat
 
 ## Visualizations 
 
-We will look at different kinds of visualizations like boxplots, frequency distributions, histograms, bar plots, density plots, etc. of each variable/feature depending on if it is categorical or numerical variable. We will also look at heat maps on correlation matrix between the variables. We may also use geographical plots to visualize the trade volume of each country on map. We shall be using python packages for visualization like Matplotlib, Seaborn, Plotly, Geographical plots majorly. We may also be using d3.js for interactive web-based visualizations.
+We will look at different kinds of visualizations like boxplots, frequency distributions, histograms, bar plots, density plots, etc. of each variable/feature depending on if it is categorical or numerical variable. We will also look at heat maps on correlation matrix between the variables. We may also use geographical plots to visualize the trade volume of each country on map. We shall be using python packages for visualization like Matplotlib, Seaborn, Plotly, Geographical plots majorly.
 
 ![Top Importers and Exporters by Country](images/Top-importers-and-exporters-by-country.png){#fig:Topimportersandexportersbycountry}
 
@@ -85,7 +83,7 @@ European Union leads the list of both top 10 importers and exporters, but it has
 
 +@fig:Yearwise trends in weight shows the line graph of Year-wise trends in weight in kg.
 
-![Yearwise trends in weight](images/Yearwise-trends-in-weight){#fig:Yearwisetrendsinweight}
+![Yearwise trends in weight](images/Yearwise-trends-in-weight.png){#fig:Yearwisetrendsinweight}
 
 
 ## Summary

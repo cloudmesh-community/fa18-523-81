@@ -32,7 +32,7 @@ We have found an earlier work on this dataset, that focused on specific goals ab
 
 ## Technologies used
 
-*  We have coded entirely in python 3.0 which is a high-level object-oriented programming language used for general programming. [https://www.python.org/]
+*  We have coded entirely in python 3.0 which is a high-level object-oriented programming language used for general programming [@fa18-523-81-python].
 * Seaborn is one of the most widely used data visualization packages available in python that is built on top of matplotlib. It provides an interface to draw appealing graphs and draw enlightening factual illustrations. We are primarily using seaborn to draw valuable insights about the trade statistics of different countries out of this huge 1.2 GB data [@fa18-523-81-seaborn].
 * Altair is a statistical visualization library available in python based on Vega and Vega-lite. It provides different visualization features that enable to create a wide variety of statistical visualizations very rapidly. In addition to seaborn we are also using Altair to create interactive visualizations to dive deep into the correlations between the trade among different countries [@fa18-523-81-altair].
 * Folium is one of the famous visualization libraries available in python used predominantly to visualize geospatial data. Folium enables one to create the map of any location given its latitude and longitude values [@fa18-523-81-folium].
@@ -51,39 +51,34 @@ We will look at different kinds of visualizations like boxplots, frequency distr
 European Union leads the list of both top 10 importers and exporters, but it has to be noted that EU-28 is a region comprising 28 countries. Most of the countries are heavy import based countries with China being an exception. Countries like USA in particular have a huge trade deficit i.e. the exports are much smaller when compared to imports. Only a few countries like China and Germany have decent trade surplus i.e. these countries import less than their exports which acts like a tremendous boost to their economy.
 
 
+![Top Countries Exporter of Commodities](images/top-countries-exporter-of-commodities.png){#fig:topcountriesexporterofcommodities}
 +@fig:topcountriesexporterofcommodities shows the line graph of top 8 countries leading in Export.
 
-![Top Countries Exporter of Commodities](images/top-countries-exporter-of-commodities.png){#fig:topcountriesexporterofcommodities}
-
-
-+@fig:topcountriesimporterofcommodities shows the line graph of top 8 countries leading in Import.
 
 ![Top Countries Importer of Commodities](images/top-countries-importer-of-commodities.png){#fig:topcountriesimporterofcommodities}
++@fig:topcountriesimporterofcommodities shows the line graph of top 8 countries leading in Import.
 
-
-+@fig:topcountrieswithhighestquantities shows the bar graph of top countries with top quantities of import and export.
 
 ![Top Countries With Highest Quantities](images/top-countries-with-highest-quantities.png){#fig:topcountrieswithhighestquantities}
++@fig:topcountrieswithhighestquantities shows the bar graph of top countries with top quantities of import and export.
 
-
-+@fig:topcountrieswithhighesttradeinUSD shows the line graph of top countries with highest trade in USD in import and export.
 
 ![top countries with highest trade in USD](images/top-countries-with-highest-trade-in-USD.png){#fig:topcountrieswithhighesttradeinUSD}
++@fig:topcountrieswithhighesttradeinUSD shows the line graph of top countries with highest trade in USD in import and export.
 
-
-+@fig:topcountrieswithhighestweightflow shows the line graph of top countries with highest weights of Export and Import.
 
 ![Top Countries with Highest Weight Flow](images/top-countries-with-highest-weight-flow.png){#fig:topcountrieswithhighestweightflow}
++@fig:topcountrieswithhighestweightflow shows the line graph of top countries with highest weights of Export and Import.
 
-
-+@fig:Yearwisetrendsintrade shows the line graph of Year-wise trends in trade in USD.
 
 ![Yearwise trends in trade](images/Yearwise-trends-in-trade.png){#fig:Yearwisetrendsintrade}
 
++@fig:Yearwisetrendsintrade shows the line graph of Year-wise trends in trade in USD.
+It can be clearly seen from the graph that there is a huge dip in the trade in US dollars in the year 2009 which is otherwise very consistently progressive. The trade has recovered immediately by the next year undeterred by this dip in 2009.
 
-+@fig:Yearwise trends in weight shows the line graph of Year-wise trends in weight in kg.
 
 ![Yearwise trends in weight](images/Yearwise-trends-in-weight.png){#fig:Yearwisetrendsinweight}
++@fig:Yearwise trends in weight shows the line graph of Year-wise trends in weight in kg.
 
 
 ## Summary

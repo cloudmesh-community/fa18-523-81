@@ -40,5 +40,5 @@ $ git clone https://github.com/cloudmesh-community/fa18-523-81.git
 
 4.	The dataset in Azure blob storage can be loaded to Python script as a data frame for any Data science application, provided required packages like Pandas, sklearn, matplotlib etc. installed. To read the blob in Azure as a data frame, first we create an instance of the class BlockBlobService using the account_name and account_key. Then, we call get_blob_to_text method with container and dataset names as arguments. The .content method reads this as a raw text file directly from the cloud storage, which can be loaded into a pandas data frame using read_csv method of pandas library in Python.
   
-
+5. The entire code with all the visualizations are created in jupyter notebook. Please run all the cells sequentially to ensure the code is run without any hassles. Also please check for any packages that are not installed in the local machine on which the code is executed. 
 

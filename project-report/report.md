@@ -47,7 +47,7 @@ The entire data is stored in Azure cloud and is accessed directly from cloud rat
 
 We will look at different kinds of visualizations like boxplots, frequency distributions, histograms, bar plots, density plots, etc. of each variable/feature depending on if it is categorical or numerical variable. We will also look at heat maps on correlation matrix between the variables. We may also use geographical plots to visualize the trade volume of each country on map. We shall be using python packages for visualization like Matplotlib, Seaborn, Plotly, Geographical plots majorly. We may also be using d3.js for interactive web-based visualizations.
 
-![Top Importers and Exporters by Country](images/Top importers and exporters by country.png){#fig:Topimportersandexportersbycountry}
+![Top Importers and Exporters by Country](images/Top-importers-and-exporters-by-country.png){#fig:Topimportersandexportersbycountry}
 
 +@fig:Topimportersandexportersbycountry shows the line graph of top importers and exporters based on Trade in USD.
 European Union leads the list of both top 10 importers and exporters, but it has to be noted that EU-28 is a region comprising 28 countries. Most of the countries are heavy import based countries with China being an exception. Countries like USA in particular have a huge trade deficit i.e. the exports are much smaller when compared to imports. Only a few countries like China and Germany have decent trade surplus i.e. these countries import less than their exports which acts like a tremendous boost to their economy.
@@ -55,37 +55,37 @@ European Union leads the list of both top 10 importers and exporters, but it has
 
 +@fig:topcountriesexporterofcommodities shows the line graph of top 8 countries leading in Export.
 
-![Top Countries Exporter of Commodities](images/top countries exporter of commodities.png){#fig:topcountriesexporterofcommodities}
+![Top Countries Exporter of Commodities](images/top-countries-exporter-of-commodities.png){#fig:topcountriesexporterofcommodities}
 
 
 +@fig:topcountriesimporterofcommodities shows the line graph of top 8 countries leading in Import.
 
-![Top Countries Importer of Commodities](images/top countries importer of commodities.png){#fig:topcountriesimporterofcommodities}
+![Top Countries Importer of Commodities](images/top-countries-importer-of-commodities.png){#fig:topcountriesimporterofcommodities}
 
 
 +@fig:topcountrieswithhighestquantities shows the bar graph of top countries with top quantities of import and export.
 
-![Top Countries With Highest Quantities](images/top countries with highest quantities.png){#fig:topcountrieswithhighestquantities}
+![Top Countries With Highest Quantities](images/top-countries-with-highest-quantities.png){#fig:topcountrieswithhighestquantities}
 
 
 +@fig:topcountrieswithhighesttradeinUSD shows the line graph of top countries with highest trade in USD in import and export.
 
-![top countries with highest trade in USD](images/top countries with highest trade in USD.png){#fig:topcountrieswithhighesttradeinUSD}
+![top countries with highest trade in USD](images/top-countries-with-highest-trade-in-USD.png){#fig:topcountrieswithhighesttradeinUSD}
 
 
 +@fig:topcountrieswithhighestweightflow shows the line graph of top countries with highest weights of Export and Import.
 
-![Top Countries with Highest Weight Flow](images/top countries with highest weight flow.png){#fig:topcountrieswithhighestweightflow}
+![Top Countries with Highest Weight Flow](images/top-countries-with-highest-weight-flow.png){#fig:topcountrieswithhighestweightflow}
 
 
 +@fig:Yearwisetrendsintrade shows the line graph of Year-wise trends in trade in USD.
 
-![Yearwise trends in trade](images/Yearwise trends in trade.png){#fig:Yearwisetrendsintrade}
+![Yearwise trends in trade](images/Yearwise-trends-in-trade.png){#fig:Yearwisetrendsintrade}
 
 
 +@fig:Yearwise trends in weight shows the line graph of Year-wise trends in weight in kg.
 
-![Yearwise trends in weight](images/Yearwise trends in weight){#fig:Yearwisetrendsinweight}
+![Yearwise trends in weight](images/Yearwise-trends-in-weight){#fig:Yearwisetrendsinweight}
 
 
 ## Summary

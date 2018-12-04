@@ -45,7 +45,7 @@
   author       = {John Hunter, Darren Dale, Eric Firing, Michael Droettboom and the Matplotlib development team},
   title        = {Matplotlib 3.0.2},
   year         = {2012},
-  howpublished = {Website},
+  howpublished = {W},
   url          = {https://matplotlib.org},
 }
 

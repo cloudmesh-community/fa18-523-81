@@ -4,24 +4,26 @@
 | Abhishek Rapelli, Harika Putti, Pavan Kumar Madineni
 | arapelli@iu.edu, haputti@iu.edu, pmadinen@iu.edu
 | Indiana University, Indiana University
-| hid: ffa18-523-79, fa18-523-81, fa18-523-82
+| hid: fa18-523-79, fa18-523-81, fa18-523-82
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-81/blob/master/project-report/report.md)
 | code: [:cloud:](https://github.com/cloudmesh-community/fa18-523-81/tree/master/project-code)
+
+---
+
+Keywords: Exploratory Data Analysis, Python, PySpark, HDFS, HBase, Watson Analytics
+
+---
 
 ## Abstract
 
 Economists, governments, trading organizations and even general public may be curious to know about the international trading patterns between different nations across the globe on various commodities. For example, one may be curious to get answers to some interesting questions like which is the largest importer of steel in the world? Which country has the highest growth in sheep production? What is America’s chocolate consumption this year? These kinds of questions can be answered by analyzing the huge volume of data that is collected from the trading transactions that happens globally among various countries. The idea is to do exploratory data analysis to find patterns and insights that may be helpful in answering such questions or raise more such new questions from observations.
-
-## Keywords
-
-fa18-523-81, fa18-523-79, fa18-523-82, Exploratory Data Analysis, Python, PySpark, HDFS, HBase, Watson Analytics
-
 
 ## Introduction
 
 This dataset contains import and export volumes for 5,000 commodities across most of the countries on the globe over the past 30 years. Trade across the globe plays a prominent role in the economy of a nation. We are looking ahead to check for any peculiar patterns in the commodities traded by different countries in accordance with time in the past 30 years. We have imported the dataset from the UNDate site published by the United Nations Statistics Division. The dataset is a 1.2 GB sized dataset and we aim to illustrate meaningful correlations among different volumes of commodities traded by different countries in different years. 
 
 ## Implementation
+
 ### Data 
 
 The dataset was provided by United Nations Statistics division on the UNData website. It consists of data for over 30 years until 2016 covering all nations in the world and around 5000 plus commodities. It has over 8.5 million transactions/records with 10 columns. The total size of the dataset was 1.2 Giga bytes. The 10 variables names are: country, year, commodity code, commodity name/type, flow (import or export), trade in USD, weight in kg, quantity name, quantity and category. There are some missing values as well as outliers in the data. Hence, the data is not ready to be used directly and needs good amount of cleaning and preprocessing.
@@ -45,25 +47,25 @@ The entire data is stored in Azure cloud and is accessed directly from cloud rat
 
 We will look at different kinds of visualizations like boxplots, frequency distributions, histograms, bar plots, density plots, etc. of each variable/feature depending on if it is categorical or numerical variable. We will also look at heat maps on correlation matrix between the variables. We may also use geographical plots to visualize the trade volume of each country on map. We shall be using python packages for visualization like Matplotlib, Seaborn, Plotly, Geographical plots majorly.
 
-![Top Importers and Exporters by Country](images/Top-importers-and-exporters-by-country.png {#fig:Topimportersandexportersbycountry}
+![Top Importers and Exporters by Country](images/Top-importers-and-exporters-by-country.png){#fig:Topimportersandexportersbycountry}
 
 +@fig:Topimportersandexportersbycountry shows the line graph of top importers and exporters based on Trade in USD.
 European Union leads the list of both top 10 importers and exporters, but it has to be noted that EU-28 is a region comprising 28 countries. Most of the countries are heavy import based countries with China being an exception. Countries like USA in particular have a huge trade deficit i.e. the exports are much smaller when compared to imports. Only a few countries like China and Germany have decent trade surplus i.e. these countries import less than their exports which acts like a tremendous boost to their economy.
 
 
-![Top Countries Exporter of Commodities](images/top-countries-exporter-of-commodities.png {#fig:topcountriesexporterofcommodities}
+![Top Countries Exporter of Commodities](images/top-countries-exporter-of-commodities.png){#fig:topcountriesexporterofcommodities}
 
 +@fig:topcountriesexporterofcommodities shows the line graph of top 8 countries leading in Export.
 
 
 ![Top Countries Importer of Commodities](images/top-countries-importer-of-commodities.png){#fig:topcountriesimporterofcommodities}
 
-+@fig:topcountriesimporterofcommodities shows the line graph of top 8 countries leading in Import.
++@fig:topcountriesimporterofcommodities shows the line graph of top 8 countries leading in Import in terms of money. EU is the leading country in imports as well. While USA is also a top contender, China is the only country with a very rapid increase in imports, even surpassing USA after 2010. Around 2015, the imports seem be competitive between China and the US, cut to now where the USA and china seem to have an open trade war. It would be interesting to see which country takes the lead in the future. 
 
 
 ![Top Countries With Highest Quantities](images/top-countries-with-highest-quantities.png){#fig:topcountrieswithhighestquantities}
 
-+@fig:topcountrieswithhighestquantities shows the bar graph of top countries with top quantities of import and export.
++@fig:topcountrieswithhighestquantities shows the bar graph of top countries with top quantities of import and export.The graps shows the highest importers as well as exportersin terms of quantity. Georgia surpriingly is a leading expert in exporting large quantities followed by Albania which is a top importer.
 
 
 ![top countries with highest trade in USD](images/top-countries-with-highest-trade-in-USD.png){#fig:topcountrieswithhighesttradeinUSD}
@@ -101,4 +103,8 @@ We would like to thank the United Nations Statistics Division for kindly publish
 
 ## Work breakdown
 
-The authors Abhishek Rapelli, Harika Putti and Pavan Kumar Madineni have worked together and contributed nearly equally in preparing this report. All three of us have organized multiple collaborative sessions to extensively search for a large dataset that would meet the course requirements as well as which would also facilitate in doing quality visualizations. The visualizations are also created with all three of us contributing equally in terms of ideas as well as visualization package selection.
+The authors Abhishek Rapelli, Harika Putti and Pavan Kumar Madineni have worked together and contributed nearly equally in preparing this report. All three of us have organized multiple collaborative sessions to extensively search for a large dataset that would meet the course requirements as well as which would also facilitate in doing quality visualizations. Individually, we have each done the following:
+
+* Abhishek Rapelli: Microsoft Azure deployment
+* Harika Putti: Parsing and writing the project code
+* Pavan Kumar Madineni: Analyzing results and report writing

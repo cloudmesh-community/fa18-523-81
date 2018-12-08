@@ -27,9 +27,7 @@ The latest edition of Cognos is the IBM Cognos Analytics 11.0 which is a state-o
 Cognos has a 3-tiered architecture. Each tier separated by network firewalls. 
 
 * Tier 1: Web servers and Gateways
-
 * Tier 2: Applications
-
 * Tier 3: Data and Content store
 
 +@fig:CognosBIArchitecture shows the architecture for the Cognos Business intelligence suite. 
@@ -38,9 +36,9 @@ Cognos has a 3-tiered architecture. Each tier separated by network firewalls.
 
 ## Components
 
-The various components of Cognos Business intelligence are [@fa-18-523-81-cognos8]– 
+The various components of Cognos Business intelligence [@fa-18-523-81-cognos8], [@fa18-523-81-cognos10.2doc] are: 
 
-|Component| Application| 
+| Component| Application | 
 | ------------- |:-------------:|
 | IBM Cognos Connection | Publishing, managing, and viewing content |
 | IBM Cognos Insight | Managed workspaces |
@@ -48,12 +46,12 @@ The various components of Cognos Business intelligence are [@fa-18-523-81-cognos
 | IBM Cognos Workspace Advanced | Ad hoc querying and exploring data |
 | IBM Cognos Report Studio | Creating reports |
 | IBM Cognos Event Studio | Event management and alerting |
-| IBM Cognos Metric Studio | Metrics and Scorecards|
+| IBM Cognos Metric Studio | Metrics and Scorecards |
 | IBM Cognos for Microsoft Office | Cognos in Microsoft Office |
 | IBM Cognos Query Studio | Ad hoc querying |
-| IBM Cognos Analysis Studio |Exploring Data|
-|IBM Framework Manager | Creating metadata models|
-|IBM Cognos Transformer | Multi-dimensional data modeling| [@fa18-523-81-cognos10.2doc]
+| IBM Cognos Analysis Studio |Exploring Data |
+| IBM Framework Manager | Creating metadata models |
+| IBM Cognos Transformer | Multi-dimensional data modeling |
 
 ### IBM Cognos Connection
 

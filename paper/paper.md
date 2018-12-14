@@ -1,4 +1,4 @@
-# IBM Cognos Business Intelligence :smiley: fa18-523-81
+# IBM Cognos Business Intelligence :wave:
 
 | Harika Putti
 | haputti@iu.edu

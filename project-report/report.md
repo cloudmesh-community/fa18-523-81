@@ -1,5 +1,5 @@
 
-# Visualizing Global Commodity Statistics using Azure, PySpark and Python :smiley: fa18-523-79, fa18-523-81, fa18-523-82
+# Visualizing Global Commodity Statistics using Azure, PySpark and Python :wave:
 
 | Abhishek Rapelli, Harika Putti, Pavan Kumar Madineni
 | arapelli@iu.edu, haputti@iu.edu, pmadinen@iu.edu
